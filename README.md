@@ -20,6 +20,7 @@ I began by scraping internet web sites and accessing APIs to collect data in var
 
 Once this was completed, I made that data ready for analysis using data wrangling techniques.
 
-When the data was ready I applied statistical techniques to analyze the data.  Then brought all of information together by using  IBM Cognos Analytics and created the dashboard, which is available at the link https://github.com/8karpov/IBM-Data-Analyst-Capstone-Project/blob/main/DASHBOARD%20Peer-Graded%20Assignment_%20Part%20A%20-%20Building%20A%20Dashboard%20With%20IBM%20Cognos%20Analytics%20v2.pdf. And finally, showed off my storytelling skills by sharing my findings in a presentation, which is available at the link https://github.com/8karpov/IBM-Data-Analyst-Capstone-Project/blob/main/Technologies%20Trends.pdf.
+When the data was ready I applied statistical techniques to analyze the data.  Then brought all of information together by using  IBM Cognos Analytics and created the dashboard, which is available at the link https://github.com/8karpov/IBM-Data-Analyst-Capstone-Project/blob/main/DASHBOARD%20Peer-Graded%20Assignment_%20Part%20A%20-%20Building%20A%20Dashboard%20With%20IBM%20Cognos%20Analytics%20v2.pdf. 
+And finally, showed off my storytelling skills by sharing my findings in a presentation, which is available at the link https://github.com/8karpov/IBM-Data-Analyst-Capstone-Project/blob/main/Technologies%20Trends.pdf.
 
-To see the process of collecting, wrangling, exploration and visualization please refer to the branch 'labs'
+#To see the process of collecting, wrangling, exploration and visualization please refer to the branch 'labs'
