@@ -12,7 +12,7 @@ My first task was to collect the top programming skills that are most in demand 
 - Training portals
 - Surveys
 
-Once you I collected enough data, I began analyzing the data and identify insights and trends that included the following:
+Once I collected enough data, I began analyzing the data and identify insights and trends that included the following:
 
 - What are the top programming languages in demand?
 - What are the top database skills in demand?
